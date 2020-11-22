@@ -663,6 +663,7 @@ PRODUCT_PACKAGES += \
     libsdm-disp-vndapis \
     libthermalclient \
     UEIQuicksetSDKLeTV \
+	LetvRemoteControl \
     WfdService \
     com.qualcomm.location \
     CneApp \
